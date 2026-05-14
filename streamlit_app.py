@@ -2,9 +2,6 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 
-%%writefile streamlit_app.py
-import streamlit as st
-import pandas as pd
 
 st.title("이번 학기 과목별 공부 부담 대시보드")
 st.caption("10강 실습 과제")
